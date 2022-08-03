@@ -1,0 +1,5 @@
+Referer: https://books.toscrape.com/catalogue/how-to-be-a-domestic-goddess-baking-and-the-art-of-comfort-cooking_470/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.6.1 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate

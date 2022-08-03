@@ -1,0 +1,5 @@
+Referer: https://books.toscrape.com/catalogue/avatar-the-last-airbender-smoke-and-shadow-part-3-smoke-and-shadow-3_881/index.html
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.6.1 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
