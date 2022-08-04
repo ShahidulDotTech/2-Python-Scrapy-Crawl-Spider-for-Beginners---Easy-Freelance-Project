@@ -5,9 +5,9 @@ from scrapy.spiders import CrawlSpider, Rule
 class Spider1Spider(CrawlSpider):
     name = 'spider1'
     # A list of domains that the spider is allowed to crawl.
-    allowed_domains = ['books.toscrape.com']
+    allowed_domains = ['mobile.de']
     # The starting point of the spider.
-    start_urls = ['https://books.toscrape.com/']
+    start_urls = ['https://www.mobile.de/?lang=en']
 
     rules = (
         Rule(LinkExtractor(), callback='parse_item', follow=True),
